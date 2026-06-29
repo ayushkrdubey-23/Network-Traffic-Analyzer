@@ -1,0 +1,22 @@
+
+==============================
+NETWORK TRAFFIC ANALYSIS REPORT
+==============================
+
+Total Packets : 40
+
+Average Packet Size : 552.52 Bytes
+
+Largest Packet : 1414 Bytes
+
+Protocol Distribution:
+{'Unknown': 21, 'TCP': 17, 'UDP': 2}
+
+Top Source IPs:
+{'10.93.73.164': 6, '10.106.62.164': 6, '20.44.10.123': 3, '8.8.4.4': 2, '4.207.44.71': 2}
+
+Top Destination IPs:
+{'10.106.62.164': 7, '52.168.117.170': 6, '20.44.10.123': 4, '4.207.44.71': 2}
+
+Potential Suspicious Packets:
+12
